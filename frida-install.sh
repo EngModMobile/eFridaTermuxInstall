@@ -21,4 +21,4 @@ tar -xf frida_core_devkit.tar.xz -C ~/frida-core
 
 export FRIDA_CORE_DEVKIT=/data/data/com.termux/files/home/frida-core/
 
-pip install frida-tools
+pip install frida-tools==16.2.0
